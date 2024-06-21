@@ -1,5 +1,5 @@
 {
-  "name": "crafty-diyers",
+  "name": "PINspiration",
   "version": "1.0.0",
   "description": "Unleash Your Creativity. Connect, Learn, and Craft.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node app.js",
     "dev":"nodemon app.js"
   },
-  "author": "Mohd Zia",
+  "author": "Tanisha Prakash",
   "license": "ISC",
     "engines": {
     "node": ">=14 <15"
