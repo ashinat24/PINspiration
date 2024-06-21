@@ -12,7 +12,7 @@ PINspiration is a community for individuals who love crafts and DIY projects. Wh
 
 - **Update and Delete**: Users can update or delete their uploaded DIYs, allowing for easy management and improvement of their projects.
 
-- **Search Others' DIYs**: Explore the inspos and DIYs shared by other users. Use the search functionality to find projects of interest and gain inspiration from fellow crafters.
+- **Search Others' work**: Explore the inspos and DIYs shared by other users. Use the search functionality to find projects of interest and gain inspiration from fellow crafters.
 
 - **Blog**: Read and contribute to the PINspiration blog, where users can share tips, tutorials, and experiences related to various inspirations and projects.
 
@@ -22,7 +22,7 @@ To get started with PINspiration, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `npm install`.
-3. Set up the required environment variables. Refer to the `.env.example` file for the required variables.
+3. Set up the required environment variables.
 4. Start the development server using `npm start`.
 5. Access the PINspiration platform in your browser at `http://localhost:3000`.
 
